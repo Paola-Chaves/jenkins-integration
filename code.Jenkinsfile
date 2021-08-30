@@ -11,7 +11,9 @@ pipeline{
                 sh '''
                     echo Hello
                     echo World
+                    echo Testing
                 '''
+               
             }
         }
     }
